@@ -15,3 +15,5 @@ Hola a todos!
 
 * 🗣Participación Individual (15%)
 
+* este es mi proyecto de webscraping 
+
